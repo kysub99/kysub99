@@ -1,6 +1,8 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Geonwoo%20Kim&fontSize=40&fontAlignY=40)
 
+<br>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">

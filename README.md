@@ -22,9 +22,8 @@
 </div>
 
 <div align="center">
-  <div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Solutions Architect Associate" />&nbsp
-</div>
 </div>
 
 <br>
@@ -61,8 +60,6 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkysub99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
 </div>
-
-
 
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&section=footer)

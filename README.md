@@ -22,7 +22,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />&nbsp
+  <div align="center">
+  <img src="https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS Solutions Architect Associate" />&nbsp
+</div>
 </div>
 
 <br>

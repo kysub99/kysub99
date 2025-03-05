@@ -30,7 +30,11 @@
 -->
 
 ---
-[Notion 페이지](https://fragrant-canopy-631.notion.site/1d9531d3579e4c149457060798b1a6b8)
+<p align="center">
+  <a href="https://fragrant-canopy-631.notion.site/1d9531d3579e4c149457060798b1a6b8">
+    <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+</p>
 
 
 <!-- Footer -->

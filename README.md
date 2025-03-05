@@ -27,5 +27,13 @@
   </a>
 </div>
 
+<p align="center" style="font-size: 12px;">
+  <a href="https://fragrant-canopy-631.notion.site/1d9531d3579e4c149457060798b1a6b8">Notion</a>
+</p>
+
+---
+[Notion 페이지](https://fragrant-canopy-631.notion.site/1d9531d3579e4c149457060798b1a6b8)
+
+
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&section=footer)
